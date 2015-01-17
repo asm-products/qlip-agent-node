@@ -1,6 +1,6 @@
 # [Qlip](https://github.com/asm-products/qlip) (Node.js Agent)
 
-This is an Agent for [Qlip](https://github.com/asm-products/qlip) written in Node.js.
+This is an experimental Agent for [Qlip](https://github.com/asm-products/qlip) written in Node.js.
 
 ## What is this for?
 * A proof-of-concept of any idea that we're going to add to Agents.
