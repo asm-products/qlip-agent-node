@@ -1,0 +1,22 @@
+{
+  "name": "qlip-agent-node",
+  "version": "0.0.1",
+  "description": "Experimental Node.js agent for Qlip",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.10.0",
+    "copy-paste": "~1.0.1",
+    "express": "~4.10.4",
+    "lodash": "^2.4.1",
+    "prompt": "^0.2.14",
+    "q": "^1.1.2",
+    "request": "~2.49.0",
+    "socket.io": "^1.2.1",
+    "socket.io-client": "^1.2.1"
+  }
+}
