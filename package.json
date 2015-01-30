@@ -5,6 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
+    "prestart": "npm install",
+    "postinstall": "node node_modules/bower/bin/bower install",
     "test": "mocha"
   },
   "license": "MIT",
